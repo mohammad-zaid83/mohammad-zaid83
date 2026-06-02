@@ -1,3 +1,5 @@
+# Data Analyst | SQL | Excel | Power BI | Python
+
 # 👋 Hi, I'm Mohammad Zaid
 
 ## 📊 Aspiring Data Analyst
