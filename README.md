@@ -94,7 +94,7 @@ I enjoy working with datasets, uncovering trends, building dashboards, and prese
 
 ### LinkedIn
 
-[www.linkedin.com/in/mohammad-zaid-718bb8300](http://www.linkedin.com/in/mohammad-zaid-718bb8300)
+[LinkedInProfile](http://www.linkedin.com/in/mohammad-zaid-718bb8300)
 
 
 ⭐ Always learning, building, and growing in the field of Data Analytics.
