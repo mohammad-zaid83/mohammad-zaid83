@@ -86,7 +86,7 @@ I enjoy working with datasets, uncovering trends, building dashboards, and prese
 
 🔗 Portfolio Website
 
-https://mohammad-zaid83.github.io/zaid-analytics/
+[zaidanalytics.com](https://mohammad-zaid83.github.io/zaid-analytics/)
 
 ---
 
@@ -96,10 +96,5 @@ https://mohammad-zaid83.github.io/zaid-analytics/
 
 [www.linkedin.com/in/mohammad-zaid-718bb8300](http://www.linkedin.com/in/mohammad-zaid-718bb8300)
 
-### Fiverr
-
-https://www.fiverr.com/s/LdkdgXY
-
----
 
 ⭐ Always learning, building, and growing in the field of Data Analytics.
